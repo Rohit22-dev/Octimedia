@@ -17,7 +17,7 @@
     "multer": "^1.4.5-lts.1"
   },
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "nodeindex.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
